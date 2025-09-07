@@ -1,0 +1,3 @@
+Zandronum 3.2
+Items are not synchronized properly online when given early and containing an immediate A_Jump call.
+Initially I thought the issue was related to CallACS, but this ended up being unrelated.
