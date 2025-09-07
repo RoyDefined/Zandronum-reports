@@ -1,0 +1,2 @@
+Zandronum 3.2.1
+Players morphed with +NOMORPHLIMITATIONS persist their items, which is different from when they are not morphed.
