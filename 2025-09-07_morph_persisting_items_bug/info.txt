@@ -1,2 +1,4 @@
 Zandronum 3.2.1
 Players morphed with +NOMORPHLIMITATIONS persist their items, which is different from when they are not morphed.
+
+Status: Never reported. The main issue is not related to morphing, as it is intended behaviour. It can be disabled by setting `Inventory.InterhubAmount` to 0.
