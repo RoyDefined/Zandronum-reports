@@ -1,0 +1,2 @@
+Zandronum 3.2
+Players do not receive the given weapon online when morphed using +NOMORPHLIMITATIONS
