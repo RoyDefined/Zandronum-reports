@@ -1,0 +1,2 @@
+Zandronum 3.2.1
+For some reason players are not able to change their player color when wearing a skin.
