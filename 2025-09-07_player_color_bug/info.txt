@@ -1,2 +1,5 @@
 Zandronum 3.2.1
 For some reason players are not able to change their player color when wearing a skin.
+
+Status: Not a bug. This is caused because morphing forgets your player's translation.
+By adding a proper color range and storing the translation elsewhere when morphing, you can then give this info back and the translations will work.
