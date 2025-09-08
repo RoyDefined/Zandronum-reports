@@ -1,0 +1,4 @@
+Zandronum 3.2.1
+Players morphed (possibly with with +NOMORPHLIMITATIONS) can't have brightmaps.
+
+Status: Fixed in Zandronum 3.3 before I even had the chance to finish this example, so it doesn't work correctly.
