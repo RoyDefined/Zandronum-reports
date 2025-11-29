@@ -1,0 +1,5 @@
+Zandronum 3.2.1
+Global variables do not persist clientside variables between maps in online games.
+This does work offline.
+
+Status: Reported
