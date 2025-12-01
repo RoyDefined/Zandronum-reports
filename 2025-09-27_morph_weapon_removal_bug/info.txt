@@ -3,4 +3,4 @@ Zandronum 3.2.1
 Players morphed with +NOMORPHLIMITATIONS randomly have weapons taken on map change.
 Also happens offline.
 
-Status: Reported.
+Status: Confirmed as fixed when using `MRF_LOSEACTUALWEAPON`.
