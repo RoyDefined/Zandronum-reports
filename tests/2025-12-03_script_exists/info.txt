@@ -1,0 +1,6 @@
+Zandronum 3.3
+New function `CheckScript` which can be used to check if a particular script exists by searching for its name or number.
+
+zcommon
+ACC: -188: CheckScript( mixed script, bool named )
+BCC: -188:CheckScript(raw, bool):bool,
